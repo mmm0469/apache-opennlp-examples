@@ -20,7 +20,7 @@ import opennlp.tools.util.TrainingParameters;
  * Training of Document Categorizer using Maximum Entropy Model in OpenNLP
  * @author www.tutorialkart.com
  */
-public class DocClassificationMaxentTrainer {
+public class DocumentCategorizerMaxentExample {
  
 	public static void main(String[] args) {
  
