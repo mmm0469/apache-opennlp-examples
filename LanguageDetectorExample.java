@@ -6,7 +6,7 @@ import opennlp.tools.util.*;
 /**
 * Language Detector Example in Apache OpenNLP
 */
-public class LanguageDetectorMEExample {
+public class LanguageDetectorExample {
  
     private static LanguageDetectorModel model;
  
