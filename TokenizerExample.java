@@ -9,7 +9,7 @@ import opennlp.tools.tokenize.TokenizerModel;
  * www.tutorialkart.com
  * Tokenizer Example in Apache openNLP using TokenizerME class loaded with pre-trained token model
  */
-public class TokenizerModelExample {
+public class TokenizerExample {
  
 	public static void main(String[] args) {
 		InputStream modelIn = null;
