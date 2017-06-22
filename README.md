@@ -3,7 +3,7 @@ This repository contains examples with Java APIs for different tools of Apache O
 
 For detailed explaination and understanding, please refer to [Apachen OpenNLP Tutorial](http://www.tutorialkart.com/opennlp/apache-opennlp-tutorial/)
 
-This repository contains following items
+This repository contains following items. The links forward you to the page for explaination about the examples.
 1. [Chunker - Example](http://www.tutorialkart.com/opennlp/chunker-example-in-apache-opennlp/)
 2. [Lemmatizer - Example](http://www.tutorialkart.com/opennlp/lemmatizer-example-in-apache-opennlp/)
 3. [Language Detector - Example](http://www.tutorialkart.com/opennlp/language-detector-example-in-apache-opennlp/)
