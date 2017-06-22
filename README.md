@@ -1,7 +1,7 @@
 # apache-opennlp-examples
 This repository contains examples with Java APIs for different tools of Apache OpenNLP like NER, Document Classification, Sentence Detection, Chunking, Lemmatization, Tokenization, etc.
 
-For detailed explaination and understanding, please refer to http://www.tutorialkart.com/opennlp/apache-opennlp-tutorial/
+For detailed explaination and understanding, please refer to [Apachen OpenNLP Tutorial](http://www.tutorialkart.com/opennlp/apache-opennlp-tutorial/)
 
 This repository contains following items
 1. Chunker - Example - http://www.tutorialkart.com/opennlp/chunker-example-in-apache-opennlp/
